@@ -3,7 +3,7 @@
 ## ANALYSIS ON ACCIDENT OCCURRENCE IN VARIOUS CITIES IN EUROPE
 
 ### DASHBOARD
-![Accident](<images/Screenshot (187).png>)
+![Accident](images/Accident.png)
 
 ### DATA UNDERSTANDING
 Data on the occurrence of accidents in various cities in Europe Dataset has 309,719 rows and 21 columns.
